@@ -16,7 +16,6 @@ int main() {
                 minIndex = j;
             }
         }
-
         // Swap minimum value with current position
         int temp = arr[i];
         arr[i] = arr[minIndex];
@@ -30,3 +29,4 @@ int main() {
 
     return 0;
 }
+
