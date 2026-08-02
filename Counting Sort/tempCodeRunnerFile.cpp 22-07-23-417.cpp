@@ -1,0 +1,1 @@
+cout<<"enter number of elements : ";
